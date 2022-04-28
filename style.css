@@ -1,0 +1,348 @@
+.first-section{
+    background-color: #FBF5F8; 
+}
+#header{
+    display: flex;
+}
+.abu-agency{ 
+    display: flex;
+    margin-left: 12%;
+    margin-top: 2%;  
+}
+.abu{
+    color: #50A791;
+}
+.nav{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 7%; 
+}
+.nav li{
+    display: inline-block;
+}
+li{
+    padding: 25px;
+}
+.lets-talk{
+    margin-left: 20%;
+    margin-top: 3.8%;
+}
+.lets-talk button{
+    background-color: #8800FF;
+    border: transparent;
+    border-radius: 13px;
+    padding: 14%;
+    width: 162%;
+}
+#social-handles{
+   
+    margin-left: 12%;
+    margin-top: 3%;
+}
+#twitter{
+    margin-left: 2%;
+    color: #50A791;
+}
+#instagram{
+    color: #F0FF73;
+}
+.contact-us{
+    background-color: #50A791;
+    padding: 1%;
+    height: 22%;
+}
+.completed-projects{
+    background-color: #ffff;
+    padding: 1%;
+    height: 22%;
+
+}
+.info h1{
+    margin-left: 12%;
+    font-size: 320%;
+}
+.info p{
+    font-size: 130%;
+    margin-left: 12%;
+}
+.info button{
+    margin-left: 12%;
+    border: transparent;
+    border-radius: 18px;
+    padding: 1%;
+}
+#man{
+    margin-left: 45%;
+    margin-top: -34%;
+
+}
+.about-us{
+    display: flex;
+    margin-left: 12%;
+    margin-top: 6%;
+}
+.about-us div{
+    background-color: #ffff;
+}
+.about{
+    display: flex;
+    margin-top: 12%;
+    margin-left: 12%;
+
+}
+.experience{
+    width: 27%;
+    padding: 1%;
+}
+.members{
+    width: 27%;
+    padding: 1%;
+    margin-left: 0.6%;
+}
+.complete-projects{
+    padding: 1%;
+    width: 27%;
+    margin-left: 0.6%;
+}
+.slack{
+    display: flex;
+    padding: 1%;
+}
+.slack img {
+    width: 89%;
+    height: 19%;
+}
+.text{
+    font: bold;
+}
+.prudential{
+    display: flex;
+    margin-left: 3%;
+    padding: 1%;
+}
+.prudential img{
+    width:89%;
+    height: 19%;
+}
+.text-2{
+    font: bold;
+}
+.microsoft{
+    display: flex;
+    padding: 1%;
+}
+.microsoft img{
+    width:89%;
+    height: 19%;
+    margin-left: 3%;
+}
+.zoover{
+    width:-308%;
+    height: -111%;
+    margin-left: 3%;
+    padding: 1%;
+}
+.text-1{
+    font: bold;
+}
+.second-section{
+   background-color: #ffff;
+}
+.help{
+    font-size: 140%;
+}
+.help h6{
+    color: #50A791;
+    margin-left: 43%;
+}
+.help h2{
+    margin-left: 38%;
+}
+.service{
+    display: flex;
+}
+.agency{
+    display: flex;
+}
+.service img{
+    width: 5%;
+    height: 4%;
+    margin-top: 1%;
+}
+.service p{
+    font: 192%;
+}
+.more{
+    display: flex;
+    margin-left: 12%;
+}
+.design{
+    background-color: #F6F9FA;
+    padding: 5%;
+    width: 20%;
+    align-content: center;
+}
+.bulls-eye p{
+    color: #ffffff;   
+}
+.bulls-eye i{
+    font-size: 250%;
+    background-color: #8800FF;
+    border-radius: 50%;
+    padding: 5%;
+}
+
+.development{
+    
+    background-color: #50A791;
+    padding:5%;
+    width: 20%;
+    align-content: center;
+}
+   
+.desktop i{
+    font-size: 250%;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 5%;
+}
+.crown i{
+    font-size: 250%;
+    background-color: #F0FF73;
+    border-radius: 50%;
+    padding: 5%;
+}
+.marketing{
+ 
+    background-color: #F2F2F2;
+    padding: 5%;
+    width: 20%;
+    align-content: center;
+}
+.crown p{
+    color: #ffffff;
+}
+.work{
+    padding: 4%;
+    margin-top: 7%;
+    display: flex;
+}
+.work img{
+margin-left: 10%;
+margin-top: -12%;
+}
+.how-we-work{
+
+    margin-left: 13%;
+    margin-top: -2%;
+    font-size: 145%;
+}
+.how-we-work h6{
+    color: #50A791;
+}
+#one{
+    background-color: #50A791;
+    border-radius: 50%;
+}
+#two{
+    background-color: #8800FF;
+    border-radius: 12px;
+}
+#three{
+    background-color: #F0FF73;
+    border-radius: 50%;
+}
+.third-section{
+   height: 300px;
+   background-color: #F2F2F2;
+}
+.your-info{
+    margin-left: 12%;
+}
+.sign-up{
+   padding: 3%;
+   margin-left: 25%;
+}
+.enter{
+    border: solid transparent;
+    background-color: #ffffff;
+    width: 70%;
+    height: 80px;
+    margin-left: 9%;
+    margin-top: 50%;
+    border-radius: 28px;
+    margin-top: -2%;
+    background-color: #50A791;
+}
+.enter p{
+    margin-left: 5%;
+    margin-top: 3%;
+    font-size: 142%;
+}
+.subscribe-button{
+    border: transparent;
+    background-color: #8800FF;
+    width: 15%;
+    height: 54px;
+    margin-left: 59%;
+    margin-top: -8%;
+    border-radius: 18px;
+}
+.subscribe-button p{
+    color: #FfFEFF;
+    padding-top: 10% ;
+    font-size: larger;
+    margin-left: 23%;
+}
+
+.reach-out{
+    margin-left: 12%;
+}
+.get-to-work{
+    font-size: 163%;
+}
+.get-to-work h6{
+    color: #50A791;
+}
+.we-work{
+    display: flex;
+    margin-top: 11%;
+}
+.we-work img{
+    width: 24%;
+    height: 4%;
+}
+.name-input{
+    border: transparent;
+    margin-top: 3%;
+}
+.name-input{
+    border: transparent;
+    border-radius: 3px;
+    width: 97%;
+    height:27px;
+    background-color: #FEF8F8;
+    padding: 2%;
+}
+.name-input p{
+    margin-left: 17%;
+}
+.write-message{
+    border: transparent;
+    border-radius: 3px;
+    width: 97%;
+    height: 46px;
+    background-color: #FEF8F8;
+    padding: 2%;
+}
+.send-message{
+    border: transparent;
+    border-radius: 23px;
+    width: 32%;
+    height: 42px;
+    margin-bottom: 6%;
+    background-color: #50A791;
+}
+.last{
+    display: flex;
+}
